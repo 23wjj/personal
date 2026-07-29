@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Jingjing Wang"
 description              : "MS student at Zhejiang University. "
+url                      : "https://23wjj.github.io"
+baseurl                  : "/personal"
 repository               : "23wjj/personal"
 google_scholar_stats_use_cdn : true
 

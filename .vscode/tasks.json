@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: Install dependencies",
+      "type": "shell",
+      "command": "/opt/homebrew/opt/ruby@3.4/bin/bundle",
+      "args": [
+        "install"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: Build",
+      "type": "shell",
+      "command": "/opt/homebrew/opt/ruby@3.4/bin/bundle",
+      "args": [
+        "exec",
+        "jekyll",
+        "build"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: Serve (live reload)",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "run_server.sh"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

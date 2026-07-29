@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "*.html": "liquid"
+  },
+  "emmet.includeLanguages": {
+    "liquid": "html"
+  },
+  "search.exclude": {
+    "**/.jekyll-cache": true,
+    "**/_site": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.jekyll-cache/**": true,
+    "**/_site/**": true
+  },
+  "terminal.integrated.env.osx": {
+    "PATH": "/opt/homebrew/opt/ruby@3.4/bin:/opt/homebrew/lib/ruby/gems/3.4.0/bin:${env:PATH}"
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/jekyll.json": "_config.yml"
+  }
+}
