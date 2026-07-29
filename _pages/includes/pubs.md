@@ -137,18 +137,37 @@ Accepted.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/agentic_data_engineering.png' alt="Agentic Data Engineering framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">[Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407)</span>
+
+<span class="authors">Yujie Luo, Xiangyuan Ru, Jingsheng Zheng, <span class="me">Jingjing Wang</span>, Yuqi Zhu, Jintian Zhang, Runnan Fang, Kewei Xu, Ye Liu, Zheng Wei, Jiang Bian, Zang Li, Shumin Deng<span class="corresponding">†</span></span>
+
+<div class="paper-links">
+<a href="https://arxiv.org/pdf/2605.30407" class="resource-link poster-link"><i class="fas fa-file-pdf"></i> paper</a>
+<a href="https://github.com/zjunlp/DataAgent" class="resource-link github-link"><i class="fab fa-github"></i> code</a>
+</div>
+
+<span class="conf">[arXiv 2026]</span>
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/lamp_pipeline.png' alt="LAMP method pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">[LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](https://zju3dv.github.io/LAMP/)</span>
 
-<span class="authors"><span class="me">Jingjing Wang</span>, Zhengdong Hong, Chong Bao, Yuke Zhu, Junhan Sun, Guofeng Zhang</span>
+<span class="authors"><span class="me">Jingjing Wang</span>, Zhengdong Hong, Chong Bao, Yuke Zhu, Junhan Sun, Guofeng Zhang<span class="corresponding">†</span></span>
 
 <div class="paper-links">
 <a href="https://zju3dv.github.io/LAMP/" class="resource-link github-link"><i class="fab fa-github"></i> project page</a>
 </div>
 
-<span class="conf">[CoRL 2026 In Submission]</span>
+<span class="conf">[arXiv 2026]</span>
 
 
 </div>
